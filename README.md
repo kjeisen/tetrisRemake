@@ -1,2 +1,2 @@
-# tetrisRemake
-Remake of Tetris using Java, using JRE 1.8
+Basic tetris game with pixel art.
+Using Java Swing
